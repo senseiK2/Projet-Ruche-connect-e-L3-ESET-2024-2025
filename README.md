@@ -32,9 +32,10 @@ Projet compilé avec **STM32CubeIDE** (sans HAL, en Empty Project).
 Compatible avec **The Things Network (TTN)**. Décodage JSON fourni dans l’interface TTN → vers Node-RED.
 
 ## 👥 Équipe
-- Prénom NOM – Intégration hardware
-- Prénom NOM – Développement firmware
-- Prénom NOM – Communication / Interface web
+- Yacine Kherradji
+- Aris Trache
+- Wadah Trimech
+- Ejeub Ahmeti
 
 ## 📄 Licence
 Projet académique – non destiné à une diffusion commerciale.
