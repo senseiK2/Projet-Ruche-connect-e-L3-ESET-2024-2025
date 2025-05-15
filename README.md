@@ -35,7 +35,7 @@ Compatible avec **The Things Network (TTN)**. Décodage JSON fourni dans l’int
 - Yacine Kherradji
 - Aris Trache
 - Wadah Trimech
-- Ejeub Ahmeti
+- Ejub Ahmeti
 
 ## 📄 Licence
 Projet académique – non destiné à une diffusion commerciale.
